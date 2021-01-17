@@ -1,0 +1,45 @@
+body{font-size:16px;font-family:"微軟正黑體";
+}
+.page-header{
+			height: 300px;
+			background-color: #0254FB;
+}
+.project-name{
+			 margin:500px;font-size:50px;font-weight:bold;
+}
+.project-tagline{
+			font-size:30px;text-decoration: underline;text-align:center;
+}
+.btn{
+	position:absolute;
+	top:30%;
+	left:40%;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 30px 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+	margin:0px;
+
+}
+.main-content{
+			
+}
+.style{
+			font-size:30px;
+			color:#F7EE11;
+			text-indent:50px;
+			letter-spacing:2px;
+}
+.site-footer{
+			white-space: pre-line;
+}
+.site-footer-owner{
+			font-family:DFKai-sb;
+}
+.site-footer-credits{
+			font-family:DFKai-sb;
+}
